@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "nashid.verify.app.dev",
+    "sha256_cert_fingerprints": [
+      "EA:3A:9C:77:3F:7D:25:C1:68:1B:24:47:D0:0E:63:75:13:5F:9C:D1:6A:01:E9:34:E4:28:7C:35:03:80:4C:D1"
+    ]
+  }
+}]
